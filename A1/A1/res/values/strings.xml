@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sim">Simulator</string>
+    <string name="op1">Option1</string>
+    <string name="op2">Option2</string>
+    <string name="op3">Option3</string>
+    <string name="an">Analyze</string>
+    <string name="sm1">Sm1</string>
+    <string name="o1">Option1</string>
+    <string name="o2">Option2</string>
+    <string name="o3">Option3</string>
+    <string name="a1">Analyze</string>
+
+</resources>
